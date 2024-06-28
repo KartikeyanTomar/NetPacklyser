@@ -4,7 +4,7 @@ Network Packet Analyser
 
 **# Project Overview**
 
-Under the Internship program with Prodigy this project is being Completed
+this project is Completed
 
 **# Task Description**
 
