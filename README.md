@@ -22,9 +22,9 @@ Provide step-by-step instructions on how to install and set up the project local
 
 # Example installation steps
 
-git clone https://github.com/KartikeyanTomar/PRODIGY_CS_04.git
+git clone https://github.com/KartikeyanTomar/NetPacklyser.git
 
-cd PRODIGY_CS_05
+cd NetPacklyser
 
 python3 net_packlyser.py
 
@@ -40,9 +40,6 @@ This Program will return the packets over the network.
 
 
 ----------------------------------##########-------------------------------------------------------------------------
-
-
-Feel free to adapt and expand upon this template to suit your specific project and experiences during your internship with Prodigy.
 
 
 Caution :- Don't use it for malicious purposes
