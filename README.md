@@ -1,8 +1,5 @@
-Sure! Here's a clean and **professional README.md** file for your project **NetPacklyser**, with installation steps, usage instructions, features, and a well-structured layout ready for GitHub or any portfolio repository.
 
----
 
-```markdown
 # 🧠 NetPacklyser – Real-Time Network Packet Analyzer
 
 NetPacklyser is a command-line tool built in Python to analyze network traffic in real-time using deep packet inspection (DPI). It allows users to inspect various protocols, monitor top talkers, and analyze detailed statistics about network activity.
